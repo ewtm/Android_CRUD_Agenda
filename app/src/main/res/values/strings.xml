@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Segundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+    <string name="ok">OK !!</string>
+    <string name="nome">Nome</string>
+    <string name="site">Site</string>
+    <string name="end">Endereço</string>
+    <string name="tel">Telefone</string>
+    <string name="nota">Nota</string>
+    <string name="gravar">Gravar</string>
+    <string name="novo">Novo</string>
+    <string name="mapa">Mapa</string>
+</resources>
